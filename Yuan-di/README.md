@@ -1,2 +1,1 @@
-Solidity程式練習
-kl;
+Solidity程式練習；
